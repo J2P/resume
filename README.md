@@ -1,9 +1,11 @@
 # 정재필
 
+![J2P Profile](images/j2p.jpg)
+
 ## 연락
-> Email : jjp5023@gmail.com 
-> Blog : http://blog.j2p.io 	
-> GitHub : https://github.com/J2P
+* Email : jjp5023@gmail.com 
+* Blog : http://blog.j2p.io 	
+* GitHub : https://github.com/J2P
 
 ## 소개
 * HTML, CSS를 이용한 퍼블리싱 작업이 가능합니다.
