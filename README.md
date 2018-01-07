@@ -60,18 +60,18 @@
 * 주식회사 락플레이스의 Google Cloud Platform 과정 수료
 
 ## 기타활동
-### 개인 프로젝트
+### 개인 프로젝트 (React Bingo Game)
 Node.js, Express, React, Socket.io
 
 아이들이 종이에 빙고 판을 그리고 게임을 하는것에서 아이디어를 얻어서 개인 프로젝트로 제작
 * https://github.com/J2P/react-bingo
 * https://github.com/J2P/react-bingo-server
 
-### Cappuccino framework 스터디 & 졸업 작품
+### Cappuccino framework 스터디 & 졸업 작품 (Number Game)
 Cappuccino 프레임워크를 배우고 최종 작품을 제작
 * https://github.com/J2P/number
 
-### FRENDS 해카톤 2012.3.30 ~ 2012.3.31
+### FRENDS 해카톤 (Typing Game)
 Node.js, Express, Passport Oauth, Bootstrap
 
 FRENDS 커뮤니티에서 진행한 해카톤에서 한글과 컴퓨터의 소나기 타자게임을 웹으로 구현
