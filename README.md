@@ -50,14 +50,15 @@
 
 ## 교육
 * Linux 과정 (ITBANK) 2006.12 ~ 2007.01
-	* Linux설치부터기본명령어와서버셋팅에대한기초지식과정수료
+	* Linux 설치부터 기본명령어, 서버 셋팅에 대한 기초지식과정 수료
 * CCNA 과정 (ITBANK) 2007.01 ~ 2007.02
-	* CCNA 자격증을 목표로 Cisco 라우터, 스위치 장비 사용방법 및 셋팅 방법 과정 수료
+	* Cisco 라우터, 스위치 장비 사용방법, 셋팅 방법 과정 수료
 * MCP 과정 (ITBANK) 2007.02 ~ 2007.04
-	* MCP 자격증 취득을 목표로 Windows Server 설치 및 셋팅 방법 과정 수료
+	* Windows Server 설치 및 셋팅 방법 과정 수료
 * Solaris 과정 (ITBANK) 2007.04 ~ 2007.04
-	* Solaris Unix 설치부터 서버 셋팅까지 Unix 에 대한 기초 지식 과정 수료
-* 주식회사 락플레이스의 Google Cloud Platform 과정 수료
+	* Solaris Unix 설치부터 서버 셋팅에 대한 기초지식과정 수료
+* 한국정보화진흥원에서 웹접근성 및 웹표준교육 수료 2009.09.11
+* 주식회사 락플레이스의 Google Cloud Platform 과정 수료 2017.11.09
 
 ## 기타활동
 ### 개인 프로젝트 (React Bingo Game)
